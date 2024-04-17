@@ -3,7 +3,7 @@
 
 The Investment Analysis Dashboard is a dashboard designed to analyze and present insights from mutual fund investment data. The dashboard provides users with a dynamic interface to explore investment options, track historical returns, identify top-performing funds, and assess tax implications.
 
-![App Screenshot](https://github.com/Pratiksha8799/Python-Projects/blob/main/Dash%20Framework/MF_Invesment_Dashboard/images/laptop.gif)
+![App Screenshot](https://github.com/Pratiksha8799/MF_Invesment_Dashboard/blob/main/images/laptop.gif)
 
 
 ## ⚡ Tech Stack
@@ -53,7 +53,7 @@ The Investment Analysis Dashboard is a dashboard designed to analyze and present
 
 ## ⚡ Screenshots
 
-![App Screenshot](https://github.com/Pratiksha8799/Python-Projects/blob/main/Dash%20Framework/MF_Invesment_Dashboard/images/dash1.png)
+![App Screenshot](https://github.com/Pratiksha8799/MF_Invesment_Dashboard/blob/main/images/dash1.png)
 
 
 ## ⚡ Documentation
